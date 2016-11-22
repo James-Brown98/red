@@ -1,1 +1,1 @@
-# red
+# redux-game
